@@ -8,9 +8,9 @@ This code implements an axample of multivariate regression problems as [Data-dri
 * Chao Jiang and Hui Li. "Reliable and Explainable Machine-Learning Methods for Accelerating Closure Development." Journal of Fluid Mechanics (in progress).
 * Chao Jiang and Hui Li. "On Realizability and Metrics of Data-driven Turbulence Models." Physical Review Fluids (in progress).
 
-Also see:
+Also see an early version:
 
-Chao Jiang, Junyi Mi, Shujin Laima, and Hui Li. "Data-driven Turbulence Modeling Using A Physics-informed Deep Residual Neural Network." 14th World Congress in Computational Mechanics (WCCM) & ECCOMAS Congress 2020, 19-July, 2020: Paris, France.
+* Chao Jiang, Junyi Mi, Shujin Laima, and Hui Li. "Data-driven Turbulence Modeling Using A Physics-informed Deep Residual Neural Network." 14th World Congress in Computational Mechanics (WCCM) & ECCOMAS Congress 2020, 19-July, 2020: Paris, France.
 
 
 #### For presentations, posters, etc..., we suggest also including:
