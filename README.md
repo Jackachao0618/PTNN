@@ -10,12 +10,12 @@ This code implements an axample of multivariate regression problems as [Data-dri
 
 Also see an earlier version:
 
-Chao Jiang, Junyi Mi, Shujin Laima, and Hui Li. "Data-driven Turbulence Modeling Using A Physics-informed Deep Residual Neural Network." 14th World Congress in Computational Mechanics (WCCM) & ECCOMAS Congress 2020, 19-July, 2020: Paris, France.
+* Chao Jiang, Junyi Mi, Shujin Laima, and Hui Li. "Data-driven Turbulence Modeling Using A Physics-informed Deep Residual Neural Network." 14th World Congress in Computational Mechanics (WCCM) & ECCOMAS Congress 2020, 19-July, 2020: Paris, France.
 
 
 #### For presentations, posters, etc..., we suggest also including:
 
-Code obtained from the PTNN at https://github.com/Jackachao0618/PTNN
+PTNN Code obtained at https://github.com/Jackachao0618/PTNN
 
 #### Related References:
 
