@@ -9,6 +9,7 @@ This code implements an axample of multivariate regression problems as [Data-dri
 * Chao Jiang and Hui Li. "On Realizability and Metrics of Data-driven Turbulence Models." Physical Review Fluids (in progress).
 
 Also see an earlier version:
+
 * Chao Jiang, Junyi Mi, Shujin Laima, and Hui Li. "Data-driven Turbulence Modeling Using A Physics-informed Deep Residual Neural Network." 14th World Congress in Computational Mechanics (WCCM) & ECCOMAS Congress 2020, 19-July, 2020: Paris, France.
 
 
