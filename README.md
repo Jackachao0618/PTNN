@@ -15,7 +15,7 @@ Also see an earlier version:
 
 #### For presentations, posters, etc..., we suggest also including:
 
-PTNN Code obtained at https://github.com/Jackachao0618/PTNN
+Code of PTNN obtained at https://github.com/Jackachao0618/PTNN
 
 #### Related References:
 
