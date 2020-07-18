@@ -1,4 +1,4 @@
-# PTNN: Data-driven Turbulence Modeling
+# PTNN: Data- and Knowledge-driven Turbulence Modeling
 This code implements an axample of multivariate regression problems in tensor modeling as [Data-driven Turbulence Modeling](https://github.com/Jackachao0618), which is based on a physics-inspired [Parameterized Tensorial Neural Network](https://github.com/Jackachao0618/PTNN) (denoted as PTNN) first proposed by Chao Jiang (2020). Encouraging predictions are obtained, and in particular, physically realizable constraints are really statisfied for the first time using the [Progressive Iteration-type Realizability (PIR)](https://github.com/Jackachao0618/PTNN) algorithm developed by C. Jiang. When building on this code and/or using aspects of PTNN, the following citations are suggested.
 
 #### For journal articles, proceeddings, etc..., we suggest:
