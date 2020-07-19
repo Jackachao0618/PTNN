@@ -8,7 +8,7 @@ Encouraging predictions are obtained, and in particular, physically realizable c
 * Chao Jiang, Junyi Mi, Ricardo Vinuesa, and Hui Li. "Machine Learning A General-purpose Turbulence Model with Built-in Domain-Knowledge." Computer Methods in Applied Mechanics and Engineering (preparation).
 * Chao Jiang and Hui Li. "Reliable and Explainable Machine-Learning Methods for Accelerating Closure Development." Journal of Fluid Mechanics (in progress).
 * Chao Jiang and Hui Li. "On Realizability and Metrics of Data-driven Turbulence Models." Physical Review Fluids (in progress).
-* Chao Jiang and Hui Li. "Searching a Universal Stress-strain Relationship across the Flow- and Geometry-topology using Parameterized Tensorial Neural Network."
+* Chao Jiang and Hui Li. "Searching a Universal Stress Pattern across the Flow- and Geometry-topology using Parameterized Tensorial Neural Network."
 
 Also see an earlier version:
 
