@@ -9,6 +9,7 @@ Encouraging predictions are obtained, and in particular, physically realizable c
 * Chao Jiang and Hui Li. "Reliable and Explainable Machine-Learning Methods for Accelerating Closure Development." Journal of Fluid Mechanics (in progress).
 * Chao Jiang and Hui Li. "On Realizability and Metrics of Data-driven Turbulence Models." Physical Review Fluids (in progress).
 * Chao Jiang and Hui Li. "Searching a Unified Stress-strain Paradigm across the Flow- and Geometry-topology using Parameterized Tensorial Neural Network."
+* Chao Jiang and Hui Li. "Discovering Physical Concepts with Deep Neural Networks."
 
 Also see an earlier version:
 
@@ -36,7 +37,7 @@ This code is built on the open-source library TensorFlow, which requires the fol
 
 Please free to contact me in case of questions:  Chao Jiang [jiangchao0451@hit.edu.cn]
 
-More Information in the Researchgate profile: 
+More Information in the ResearchGate profile: 
 https://www.researchgate.net/profile/Chao_Jiang44
 
 
