@@ -10,6 +10,7 @@ Encouraging predictions are obtained, and in particular, physically realizable c
 * Chao Jiang and Hui Li. "On Realizability and Metrics of Data-driven Turbulence Models." Physical Review Fluids (in progress).
 * Chao Jiang and Hui Li. "Searching a Unified Stress-strain Paradigm across the Flow- and Geometry-topology using Parameterized Tensorial Neural Network."
 * Chao Jiang and Hui Li. "Discovering Physical Concepts with Deep Neural Networks."
+* Chao Jiang and Hui Li. "On Risks of Machine Learining in Turbulence Modeling: A Physical Perspective."
 
 Also see an earlier version:
 
