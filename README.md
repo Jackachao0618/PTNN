@@ -4,7 +4,7 @@ Encouraging predictions are obtained, and in particular, physically realizable c
 
 #### For journal articles, proceeddings, etc..., we suggest:
 
-* Chao Jiang, Ruilin Chen, Junyi Mi, Ricardo Vinuesa, Shujin Laima, and Hui Li. "[Data-driven Reliable Turbulence Modeling through A Physics-inspired Parameterized Tensorial Neural Network]()." Physics of Fluids (submitted).
+* Chao Jiang, Ricardo Vinuesa, Ruilin Chen, Junyi Mi, Shujin Laima, and Hui Li. "[Data-driven Reliable Turbulence Modeling through A Physics-inspired Parameterized Tensorial Neural Network]()." Physics of Fluids (submitted).
 * Chao Jiang, Junyi Mi, Ricardo Vinuesa, and Hui Li. "Machine Learning A General-purpose Turbulence Model with Built-in Domain-Knowledge." Computer Methods in Applied Mechanics and Engineering (preparation).
 * Chao Jiang and Hui Li. "Reliable and Explainable Machine-Learning Methods for Accelerating Closure Development." Journal of Fluid Mechanics (in progress).
 * Chao Jiang and Hui Li. "On Realizability and Metrics of Data-driven Turbulence Models." Physical Review Fluids (in progress).
